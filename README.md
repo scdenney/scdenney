@@ -20,7 +20,7 @@ I bridge digital humanities with quantitative social science to study national i
 ## Current Projects
 
 - [**Fairness or Threat?**](https://github.com/scdenney/nwo26-immigration-backlash) — Understanding sources of immigration backlash across democracies
-- **Textbooks, Nation, and AI: Reconstructing Korean National Identity** — Using national history textbooks analyzed by AI to inform survey measures of national identity
+- [**Textbooks, Nation, and AI: Reconstructing Korean National Identity**](https://github.com/scdenney/textbook-identity-aks) — Using national history textbooks analyzed by AI to inform survey measures of national identity
 - **Nationalism and Political Change** — How institutions shape national identity
 
 ## Recent Publications
