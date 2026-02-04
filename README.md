@@ -6,7 +6,7 @@ I bridge digital humanities with quantitative social science to study national i
 
 ## Research Focus
 
-- Survey experiments and experimental designs
+- Experiments and survey design
 - Machine learning and computational text analysis
 - Large language models for political discourse
 - Nations, nationalism, and immigration attitudes
