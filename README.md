@@ -22,6 +22,7 @@ I bridge digital humanities with quantitative social science to study national i
 
 - [**Fairness or Threat?**](https://github.com/scdenney/nwo26-immigration-backlash) — Understanding sources of immigration backlash across democracies
 - [**Textbooks, Nation, and AI: Reconstructing Korean National Identity**](https://github.com/scdenney/textbook-identity-aks) — Using national history textbooks analyzed by AI to inform survey measures of national identity
+- **AI Workforce Intelligence Initiative** — Measuring AI's impacts and trends on Canada's workforce and economy, with [The Dais](https://thedais.ca), Toronto Metropolitan University
 - **Nationalism and Political Change** — How institutions shape national identity
 
 ## Recent Publications
