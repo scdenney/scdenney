@@ -16,14 +16,14 @@ I bridge digital humanities with quantitative social science to study national i
 - [Introduction to Computational Text Analysis](https://scdenney.github.io/ba2_digital-korea/)
 - [Digital Humanities](https://scdenney.github.io/ba3_text_as_data/)
 - [BA Thesis Seminar](https://scdenney.github.io/baks_thesis-seminar/)
-- [Thesis Supervision](https://scdenney.github.io/thesis-supervision/) — BAIS, BAKS, MAAS, MAIR
+- [Thesis Supervision](https://scdenney.github.io/thesis-supervision/)
 - [International Relations](https://scdenney.wordpress.com/wp-content/uploads/2026/01/2526-bais-ir.pdf)
 
 ## Open Resources
 
-- [Thesis Supervision](https://scdenney.github.io/thesis-supervision/) — Program requirements, assessment standards, and getting-started guide for thesis students
-- [NLP Corpora for Korean Studies](https://github.com/scdenney/nlp_corpora) — Curated text corpora for digital humanities and computational social science research on Korea
-- [Open Science Skills](https://github.com/scdenney/open-science-skills) — Claude Code skills for experimental social science methodology
+- [Thesis Supervision](https://scdenney.github.io/thesis-supervision/)
+- [NLP Corpora for Korean Studies](https://github.com/scdenney/nlp_corpora)
+- [Open Science Skills](https://github.com/scdenney/open-science-skills)
 
 ## Current Projects
 
