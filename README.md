@@ -11,19 +11,18 @@ I bridge digital humanities with quantitative social science to study national i
 - Large language models for political discourse
 - Nations, nationalism, and immigration attitudes
 
-## Teaching & Supervision (AY2025-26)
+## Teaching (AY2025-26)
 
 - [Introduction to Computational Text Analysis](https://scdenney.github.io/ba2_digital-korea/)
 - [Digital Humanities](https://scdenney.github.io/ba3_text_as_data/)
 - [BA Thesis Seminar](https://scdenney.github.io/baks_thesis-seminar/)
-- [Thesis Supervision](https://scdenney.github.io/thesis-supervision/)
 - [International Relations](https://scdenney.wordpress.com/wp-content/uploads/2026/01/2526-bais-ir.pdf)
 
 ## Open Resources
 
-- [Thesis Supervision](https://scdenney.github.io/thesis-supervision/)
-- [NLP Corpora for Korean Studies](https://github.com/scdenney/nlp_corpora)
-- [Open Science Skills](https://github.com/scdenney/open-science-skills)
+- [Thesis Supervision](https://scdenney.github.io/thesis-supervision/) — Guides and standards for BA/MA thesis students
+- [NLP Corpora for Korean Studies](https://github.com/scdenney/nlp_corpora) — Text corpora for computational research on Korea
+- [Open Science Skills](https://github.com/scdenney/open-science-skills) — Claude Code skills for experimental methodology
 
 ## Current Projects
 
