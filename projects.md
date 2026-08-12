@@ -216,7 +216,7 @@ Currently, my research program is organized around three projects that collectiv
 
 <p><strong>Working Papers</strong></p>
 <ul>
-<li>Denney, S., Kelly, R., & Wolfe, D. Innovation policy in practice: Assessing Canada's Business Innovation and Growth Support framework. [Under review] — <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank">Working paper</a></li>
+<li>Denney, S., Kelly, R., & Wolfe, D. Scaling for success? Coverage, timing, and the reach of Canadian federal innovation support. [Revise and resubmit, <em>Canadian Public Policy</em>] — <a href="https://github.com/scdenney/bigs-scaleups/blob/main/manuscripts/scaling-for-success.pdf" target="_blank">Working paper</a></li>
 </ul>
 
 <p><strong>Research Monograph</strong></p>
