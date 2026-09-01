@@ -14,7 +14,7 @@ I bridge digital humanities with quantitative social science to study national i
 ## Teaching (AY2025-26)
 
 - [Introduction to Computational Text Analysis](https://scdenney.github.io/ba2_digital-korea/)
-- [Digital Humanities](https://scdenney.github.io/ba3_text_as_data/)
+- [Digital Humanities](https://scdenney.github.io/ba3tad-26/)
 - [BA Thesis Seminar](https://scdenney.github.io/baks_thesis-seminar/)
 - [International Relations](https://scdenney.wordpress.com/wp-content/uploads/2026/01/2526-bais-ir.pdf)
 

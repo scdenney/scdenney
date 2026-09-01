@@ -35,7 +35,7 @@ I previously taught comparative politics courses and research methods in politic
 
 <p class="project-meta">
 <strong>Level:</strong> BA III · <strong>Program:</strong> Korean Studies, Leiden University<br>
-<a href="https://scdenney.github.io/ba3_text_as_data/">Course Website</a>
+<a href="https://scdenney.github.io/ba3tad-26/">Course Website</a>
 </p>
 
 <details>
