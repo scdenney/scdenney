@@ -11,7 +11,7 @@ I bridge digital humanities with quantitative social science to study national i
 - Large language models for political discourse
 - Nations, nationalism, and immigration attitudes
 
-## Teaching (AY2025-26)
+## Selected Teaching
 
 - [Introduction to Computational Text Analysis](https://scdenney.github.io/ba2_digital-korea/)
 - [Digital Humanities](https://scdenney.github.io/ba3tad-26/)
