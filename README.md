@@ -33,6 +33,8 @@ I bridge digital humanities with quantitative social science to study national i
 
 ## Recent Publications
 
+- Denney, S. (2026). Governing immigration by the rules: Legal procedure, equal treatment, and public support across four countries. *Working paper*. [SSRN](https://ssrn.com/abstract=7564458)
+- Denney, S., & DiGiuseppe, M. (2026). JEV versus LLMs: Accuracy, Cost and Calibration on Seven Political Science Replications. *Preprint*. [arXiv](https://arxiv.org/abs/2610.06625)
 - Denney, S., Steinhardt, H. C., & Bhowmick, L. (2026). Identity conformity in Taiwan and South Korea: Why citizens in divided societies are pressured to overstate national pride. *Nationalism and Ethnic Politics*. https://doi.org/10.1080/13537113.2026.2616954
 - Brehm, R. C., Denney, S., & Zhou, T. (2025). From division to democracy: Integrating post-socialist citizens in Germany and South Korea. *Communist and Post-Communist Studies*, 1–24. https://doi.org/10.1525/cpcs.2025.2636997
 - Ward, P., & Denney, S. (2025). Welfare chauvinism in divided societies: The role of national identity in social policy preferences. *Policy and Society*. Advance online publication. https://doi.org/10.1093/polsoc/puaf027
